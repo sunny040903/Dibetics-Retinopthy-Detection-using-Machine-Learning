@@ -7,7 +7,7 @@
 - Technologies Used
 - Usage
 - Dataset & Model Training
-- Results
+- Accuracy
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Diabetic Retinopathy Detection is a machine learning project aimed at detecting 
 
 ## Features
 - Preprocessing of retinal images
-- Deep learning model for detection
+- Machine learning model for detection
 - Evaluation metrics for performance
 - Visualization of results
 
