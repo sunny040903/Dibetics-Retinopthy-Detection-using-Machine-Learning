@@ -28,7 +28,9 @@ Diabetic Retinopathy Detection is a machine learning project aimed at detecting 
 - Matplotlib
 
 ## Dataset & Model Training
+Diabetic retinopathy is a condition suffered by people who have diabeties, which leads to permenent blindness if not treated in time.
 
+We propose a novel and efficient method to diagnose retinopathy from retinal fundas images using SVM .
 The dataset used for this project can be obtained from the Kaggle Diabetic Retinopathy Detection competition. And the model used is trained using a ResNet-52 neural network architecture.
 
 ## Result
